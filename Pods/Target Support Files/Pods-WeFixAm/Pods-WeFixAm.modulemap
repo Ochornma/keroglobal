@@ -1,0 +1,6 @@
+framework module Pods_WeFixAm {
+  umbrella header "Pods-WeFixAm-umbrella.h"
+
+  export *
+  module * { export * }
+}
